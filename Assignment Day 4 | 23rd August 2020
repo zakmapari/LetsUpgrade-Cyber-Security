@@ -1,0 +1,22 @@
+Question 1:
+Find out the mail servers of the following domain :
+Ibm.com
+Wipro.com
+
+Answer:
+
+
+
+
+Question 2:
+Find the locations, where these email servers are hosted.
+Answer:
+
+Question 3:
+Scan and find out port numbers open 203.163.246.23
+Answer:
+110/tcp open   pop3
+
+Question 4:
+Install nessus in a VM and scan your laptop/desktop for CVE.
+Answer:
