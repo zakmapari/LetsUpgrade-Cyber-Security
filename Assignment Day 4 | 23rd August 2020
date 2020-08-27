@@ -5,12 +5,19 @@ Wipro.com
 
 Answer:
 
+ibm.com mail exchanger = 5 mx0b-001b2d01.pphosted.com.
+
+wipro.com       mail exchanger = 0 wipro-com.mail.protection.outlook.com.
 
 
 
 Question 2:
 Find the locations, where these email servers are hosted.
 Answer:
+ibm.com - United States
+
+wipro.com - Hong Kong
+
 
 Question 3:
 Scan and find out port numbers open 203.163.246.23
@@ -20,3 +27,4 @@ Answer:
 Question 4:
 Install nessus in a VM and scan your laptop/desktop for CVE.
 Answer:
+Done
